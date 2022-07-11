@@ -5,4 +5,4 @@ Generate *.sln, vcxproj, filters( VisualStudio Solution File &amp; Project &amp;
 - [ ] Generate *.vcxproj
 - [ ] Generate *.sln 
 - [ ] Rebase Source Structure
-- [ ] Make Python Module 
+- [ ] Make Python Module & Release
